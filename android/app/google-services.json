@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556501933929",
+    "project_id": "orghubapp",
+    "storage_bucket": "orghubapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556501933929:android:81eaa45ebbd3769110a7f8",
+        "android_client_info": {
+          "package_name": "com.example.org_hub_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGy66D30h4938IES3qu2l-_HV6UADG9PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
