@@ -20,9 +20,10 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Org Hub',
       theme: ThemeData(
-        useMaterial3: true,
-        colorSchemeSeed: Colors.deepPurple,
-      ),
+            useMaterial3: true,
+            colorSchemeSeed: Colors.deepPurple,
+            brightness: Brightness.light,
+          ),
       home: const DashboardScreen(),
     );
   }
